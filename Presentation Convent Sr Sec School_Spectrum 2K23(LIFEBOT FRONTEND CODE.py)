@@ -1,0 +1,356 @@
+import ctt
+import random
+print('Earth Goddess 😀:')
+s=('Hii!','Hola!' ,'Bonjour!','Hello!')
+f=random.randrange(4)
+print(s[f])
+print('How are you? 😉')
+a=input()
+A=a.lower()
+if A in 'goodfine':
+    print('Earth Goddess 🌍:')
+c=A.find('not')
+if c>=0:
+    print('Earth Goddess:')
+    print('Sorry to hear that..but I hope talking to me will lift your mood up')
+print('If you are ready to know about the issues detrimental to the nature then,')
+d=input('Enter yes:')
+D=d.lower()
+e=D.find('yes')
+if e>=0:
+    print('Great!,Lets start 🤩')
+print()
+print(ctt.menu())
+f=int(input("Kindly Enter Your Choice 😁:"))
+
+#plastic pollution
+while True:
+ if f==1:
+    m=0
+    n=0
+    while m<=2:
+        print("Earth Goddess  🌍:")
+        print('Hey! Eco minion choose what you want to learn about plastic pollution today')
+        print()
+        print('1. Plastic being detrimental to the environment')
+        print('2. ways to cut down daily plastic usage')
+        print('3. question hour')
+        a=int(input(" Eco Minion, Kindly Enter Your Choice:"))
+        if a==1:
+            print("Earth Goddess  🌍:")
+            print(ctt.plastic_info())
+        elif a==2:
+            print("Earth Goddess  🌍:")
+            print(ctt.plastic_soln())
+        elif a==3:
+            print(ctt.plastic_ques1())
+            b=input('Eco Minion 🌱💚, Enter your answer:')
+            B=b.lower()
+            if B=='b':
+                print(ctt.plastic_ques1soln())
+            else :
+                print(ctt.plastic_ques1solnw())
+            print(ctt.plastic_ques2())
+            c=input('Eco Minion 🌱💚, Enter your answer:')
+            C=b.lower()
+            if C=='a':
+                print(ctt.plastic_ques2soln())
+            else :
+                print(ctt.plastic_ques2solnw())
+            print(ctt.plastic_ques3())
+            d=input('Eco Minion 🌱💚, Enter your answer:')
+            D=d.lower()
+            if D=='d':
+                print(ctt.plastic_ques3soln())
+            else :
+                print(ctt.plastic_ques3solnw())
+        print()
+        q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+        Q=q.lower()
+        #o=Q.find('yes')
+        if q=="yes":
+            m=m+1
+        else:
+            print(ctt.menu())
+            f=int(input("Kindly Enter Your Choice 😁:"))
+            break
+            
+            
+
+
+# noise pollution
+
+ elif f==3:
+     m=0
+     while m<=2:
+         print("Earth Goddess  🌍:")
+         print('Hey! Eco minion choose what you want to learn about noise pollution today')
+         print()
+         print('1. noise pollution being detrimental to the environment')
+         print('2. ways to reduce noise pollution  ')
+         print('3. question hour')
+         a=int(input("Eco Minion, Kindly Enter Your Choice:"))
+         if a==1:
+             print("Earth Goddess  🌍:")
+             print(ctt.noise_info())
+         elif a==2:
+             print("Earth Goddess  🌍:")
+             print(ctt.noise_soln())
+         elif a==3:
+             print(ctt.noise_ques1())
+             b=input('Eco Minion 🌱💚, Enter your answer:')
+             B=b.lower()
+             if B=='c':
+                 print(ctt.noise_ques1soln())
+             else :
+                 print(ctt.noise_ques1solnw())
+             print(ctt.noise_ques2())
+             c=input('Eco Minion 🌱💚, Enter your answer:')
+             C=b.lower()
+             if C=='a':
+                 print(ctt.noise_ques2soln())
+             else :
+                 print(ctt.noise_ques2solnw())
+             print(ctt.noise_ques3())
+             d=input('Eco Minion 🌱💚, Enter your answer:')
+             D=d.lower()
+             if D=='c':
+                 print(ctt.noise_ques3soln())
+             else :
+                 print(ctt.noise_ques1solnw())
+         print()
+         q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+         Q=q.lower()
+         o=Q.find('yes')
+         if q=="yes":
+             m=m+1
+         else:
+             print(ctt.menu())
+             f=int(input("Kindly Enter Your Choice 😁:"))
+             break
+
+# fast fashion and textile waste
+
+ elif f==5:
+    m=0
+    while m<=2:
+        print("Earth Goddess  🌍:")
+        print('Hey! Eco minion choose what you want to learn about noise pollution today')
+        print()
+        print('1. fast fashion and textile waste being detrimental to the environment')
+        print('2. ways to reduce fast fashion and textile waste pollution  ')
+        print('3. question hour')
+        a=int(input("Eco Minion, Kindly Enter Your Choice:"))
+        if a==1:
+            print("Earth Goddess  🌍:")
+            print(ctt.fft_info())
+        elif a==2:
+            print("Earth Goddess  🌍:")
+            print(ctt.fft_soln())
+        elif a==3:
+            print(ctt.fft_ques1())
+            b=input('Eco Minion 🌱💚, Enter your answer:')
+            B=b.lower()
+            if B=='d':
+                print(ctt.fft_soln1())
+            else :
+                print(ctt.fft_soln1w())
+            print(ctt.fft_ques2())
+            c=input('Eco Minion 🌱💚, Enter your answer:')
+            C=b.lower()
+            if C=='b':
+                print(ctt.fft_soln2())
+            else :
+                print(ctt.fft_soln2w())
+            print(ctt.fft_ques3())
+            d=input('Eco Minion 🌱💚, Enter your answer:')
+            D=d.lower()
+            if D=='c':
+                print(ctt.fft_soln3())
+            else :
+                print(ctt.fft_soln3w())
+        print()
+        q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+        Q=q.lower()
+        o=Q.find('yes')
+        if q=="yes":
+            m=m+1
+        else:
+            print(ctt.menu())
+            f=int(input("Kindly Enter Your Choice😁:"))
+            break
+
+           
+#water scarcity
+       
+ elif f==2:
+    m=0
+    while m<=2:
+        print("Earth Goddess  🌍:")
+        print('Hey! Eco minion choose what you want to learn about water scarcity today')
+        print()
+        print('1. water scarcity being detrimental to the environment')
+        print('2. ways to reduce water scarcity pollution  ')
+        print('3. question hour')
+        a=int(input("Kindly Enter Your Choice:"))
+        if a==1:
+            print("Earth Goddess  🌍:")
+            print(ctt.ws_info())
+        elif a==2:
+            print("Earth Goddess  🌍:")
+            print(ctt.ws_soln())
+        elif a==3:
+            print(ctt.ws_ques1())
+            b=input('Eco Minion 🌱💚, Enter your answer:')
+            B=b.lower()
+            if B=='d':
+                print(ctt.ws_soln1())
+            else :
+                print(ctt.fft_soln1w())
+            print(ctt.ws_ques2())
+            c=input('Eco Minion 🌱💚, Enter your answer:')
+            C=b.lower()
+            if C=='a':
+                print(ctt.ws_soln2())
+            else :
+                print(ctt.fft_soln2w())
+            print(ctt.ws_ques3())
+            d=input('Eco Minion 🌱💚, Enter your answer:')
+            D=d.lower()
+            if D=='b':
+                print(ctt.fft_soln3())
+            else :
+                print(ctt.fft_soln3w())
+        print()
+        q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes ')
+        Q=q.lower()
+        o=Q.find('yes')
+        if q=="yes":
+            m=m+1
+        else:
+            print(ctt.menu())
+            f=int(input("Kindly Enter Your Choice 😁:"))
+            break
+
+# soil degradation
+
+ elif f==4:
+    m=0
+    while m<=2:
+        print("Earth Goddess  🌍:")
+        print('Hey! Eco minion choose what you want to learn about noise pollution today')
+        print()
+        print('1. soil degradation being detrimental to the environment')
+        print('2. ways to reduce soil degradation')
+        print('3. question hour')
+        a=int(input("Kindly Enter Your Choice:"))
+        if a==1:
+            print("Earth Goddess  🌍:")
+            print(ctt.soil_info())
+        elif a==2:
+            print("Earth Goddess  🌍:")
+            print(ctt.soil_soln())
+        elif a==3:
+            print(ctt.soil_ques1())
+            b=input('Eco Minion 🌱💚, Enter your answer:')
+            B=b.lower()
+            if B=='a':
+                print(ctt.soil_soln1())
+            else :
+                print(ctt.soil_soln1w())
+            print(ctt.soil_ques2())
+            c=input('Eco Minion 🌱💚, Enter your answer:')
+            C=b.lower()
+            if C=='d':
+                print(ctt.soil_soln2())
+            else :
+                print(ctt.soil_soln2w())
+            print(ctt.soil_ques3())
+            d=input('Eco Minion 🌱💚, Enter your answer:')
+            D=d.lower()
+            if D=='c':
+                print(ctt.soil_soln3())
+            else :
+                print(ctt.soil_soln3w())
+        print()
+        q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+        Q=q.lower()
+        o=Q.find('yes')
+        if q=="yes": 
+            m=m+1
+        else:
+            print(ctt.menu())
+            f=int(input("Kindly Enter Your Choice 😁:"))
+            break
+
+
+# electronic waste
+
+ elif f==6:
+    m=0
+    while m<=2:
+        print("Earth Goddess  🌍:")
+        print('Hey! Eco minion choose what you want to learn about noise pollution today')
+        print()
+        print('1. electronic waste being detrimental to the environment')
+        print('2. ways to reduce electronic waste ')
+        print('3. question hour')
+        a=int(input("Eco Minion, Kindly Enter Your Choice:"))
+        if a==1:
+            print("Earth Goddess  🌍:")
+            print(ctt.ew_info())
+        elif a==2:
+            print("Earth Goddess  🌍:")
+            print(ctt.ew_soln())
+        elif a==3:
+            print(ctt.ew_ques1())
+            b=input('Eco Minion 🌱💚, Enter your answer:')
+            B=b.lower()
+            if B=='a':
+                print(ctt.ew_soln1())
+            else :
+                print(ctt.ew_soln1w())
+            print(ctt.ew_ques2())
+            c=input('Eco Minion 🌱💚, Enter your answer:')
+            C=b.lower()
+            if C=='b':
+                print(ctt.ew_soln2())
+            else :
+                print(ctt.ew_soln2w())
+            print(ctt.ew_ques3())
+            d=input('Eco Minion 🌱💚, Enter your answer:')
+            D=d.lower()
+            if D=='d':
+                print(ctt.ew_soln3())
+            else :
+                print(ctt.ew_soln3w())
+        print()
+        q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+        Q=q.lower()
+        o=Q.find('yes')
+        if q=="yes":
+            m=m+1
+        else:
+            print(ctt.menu())
+            f=int(input("Kindly Enter Your Choice 😁:"))
+            break
+
+ elif f==8:
+    quit()
+
+ elif f==7:
+     m=0
+     while m<=2:
+         print(ctt.QUESTION())
+         print()
+         q=input('Eco minion 🌱💚, If you want to continue to learn more about the same then enter yes :')
+         Q=q.lower()
+         o=Q.find('yes')
+         if q=="yes":
+             m=m+1
+         else:
+             print(ctt.menu())
+             f=int(input("Kindly Enter Your Choice 😁:"))
+             break
+    
+   

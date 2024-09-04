@@ -1,0 +1,639 @@
+def greet():
+    return('Hello! Good to see you here!')
+
+def how():
+    return('Cool!')
+
+def yes():
+    return('Great!,Lets start')
+
+def plastic_info():
+    return('''Its no secret that plastic is bad for the environment.
+! It takes hundreds of years to decompose, and in the meantime, iollutes our oceans and landfills.
+  But you might not know just how many different ways plastic can negatively impact the environment -
+  from the manufacturing process to how we dispose of it
+! Plastic is a major contributor to both land and water pollution.
+  When it's not properly disposed of, it can end up in our oceans and rivers, harming marine life.
+  It can also end up in landfills, where it takes centuries to decompose.
+!  the issue of deforestation.
+Plastic is made from petroleum, which means its production contributes to deforestation.
+The more plastic we use, the more trees are cut down to make way for oil drilling and refining facilities.
+!  issue of climate change. Plastic production emits greenhouse gases, which contribute to climate change.
+Climate change is a major threat to both humans and wildlife,
+and it's only getting worse as we continue to pump more and more greenhouse gases into the atmosphere.
+! the issue of human health. Plastic contains harmful chemicals that can leach into food and water.
+These chemicals have been linked to cancer, reproductive problems, and other health issues.
+
+But you might not know just how many different ways plastic can negatively impact the environment - from the manufacturing process to how we dispose of it.''')
+
+def plastic_soln():
+    return('''A plastic-free future starts with you.
+! Break up with bottled water.
+! Shop with reusable bags.
+! Skip the straw.
+! Choose seasonal and local.co minion wants to challenge my knowledge, huh?")
+ print("No issues! I'm ready!")
+ print("Kindly type the question.")
+ print()
+ print("Eco minio
+   Avoid prepackaged food by getting food from your local mart
+! Cook more.
+   Not only is it healthier, but making your own meals doesn’t involve takeout containers or doggy bags
+! Boycott microbeads.
+   Those little plastic scrubbers found in so many beauty products—facial scrubs, toothpaste, body washes—might look harmless,
+   but their tiny size allows them to slip through water-treatment plants
+! Buy in bulk.
+! Make your period waste-free
+! Re-think your food storage
+! Say no to disposable plastic cutlery''')
+
+def plastic_ques1():
+    return('''Is it okay to incinerate plastic?
+a) yes
+b) no
+c) perhaps
+d) don't know ''')
+
+def plastic_ques1soln():
+    return('''kudos!!This is the way ''')
+
+def plastic_ques1solnw():
+    return('''Oops!The correct answer is no...Many within the trash industry think so.
+But incineration and other “waste-to-energy” projects pose dangers to the environment''')
+
+def plastic_ques2():
+    return('''Why you should cook more often with regard to environment ?
+a) To avoid takeaway plastic containers
+b) Its a cheaper option
+c) Its scrumptious
+d) Its healthier''')
+
+def plastic_ques2soln():
+    return('''Good Job! You are onto something brilliant!''')
+
+def plastic_ques2solnw():
+    return('''Better luck next time..The correct answer is  To avoid takeaway plastic containers...as Not only is it healthier,
+but making your own meals doesn’t involve takeout containers or doggy bags''')
+
+def plastic_ques3():
+    return(''' What is the effect of plastic pollution on marine life?
+
+(a) It poisons them
+
+(b) It starves them to death
+
+(c ) It makes reproduction complex
+
+(d) All of the above''')
+
+def plastic_ques3soln():
+    return('''Wonderful!!''')
+
+def plastic_ques3solnw():
+    return('''Sorry! The correct answer is All of the above
+Plastic pollution makes reproduction complex, poisons the marine life and starves them to death.''')
+
+#noise pollution
+
+def noise_info():
+    return('''Not all sound is considered noise pollution.
+To be precise, noise becomes harmful when it exceeds 75 decibels (dB) and is painful above 120 dB.
+! Traffic noise
+Traffic noise accounts for most polluting noise in cities. For example, a car horn produces 90 dB and a bus produces 100 dB
+!Construction sites
+Building and car park construction and road and pavement resurfacing works are very noisy. For example, a pneumatic drill produces 110 dB.
+! Animals
+Noise made by animals can go unnoticed, but a howling or barking dog, for example, can produce around 60-80 dB.
+! Events: Weddings, public gatherings involve loudspeakers to play music resulting in the production of unwanted noise in the neighbourhood.
+! Noise pollution can be hazardous to human health in the following ways:
+   !! Hypertension
+   !! Hearing loss
+   !! Sleeping disorders
+   !! Cardiovascular issues
+   !! ability to focus, which can lead to low performance over time
+   !! stress, fatigue, depression, anxiety ''')
+
+def noise_soln():
+    return('''
+! Honking in public places like teaching institutes, hospitals, etc. should be avoided.
+! Musical instruments’ sound should be controlled to desirable limits.
+! In commercial, hospital, and industrial buildings, adequate soundproof systems should be installed.
+! very noisy leisure activities could be avoided
+!  Invest in Noise-Friendly Flooring
+!  Invest in Sound-Friendly Furniture
+!Use Noise Absorbents in Noisy Machinery''')
+
+def noise_ques1():
+    return(''' How to prevent noise pollution in and around school ?
+a) by putting school signboards on roads
+b) by keeping silence zone in the school
+c) by maintaining silence in and around school
+d) by preventing noise pollution by appointing trafic police around the school ''')
+
+def noise_ques1soln():
+    return('''kudos!!This is the way ''')
+
+def noise_ques1solnw():
+    return('''Oops! The correct is by maintaining silence in and around school ''')
+
+def noise_ques2():
+    return('''The degree of hearing loss depends on the duration as well as the intensity of the noise.
+a) True
+b) False''')
+
+def noise_ques2soln():
+    return('''Good Job! You are onto something brilliant!''')
+
+def noise_ques2solnw():
+    return('''Better luck next time..The correct answer is True...For example, one hour of exposure to a 100 db sound level can produce a temporary threshold shift that may last for about one day. In factories workers subjected to high sounds for several hours in a day.
+It will cause hearing loss and other mental issues.''')
+
+def noise_ques3():
+    return('''What is noise?
+a) Desirable sound
+b) Desirable and unwanted sound
+c) Undesirable and unwanted sound
+d) Undesirable and wanted sound ''')
+
+def noise_ques3soln():
+    return('''Wonderful!!''')
+
+def noise_ques1solnw():
+    return('''Sorry! The correct answer is Undesirable and unwanted sound...Noise pollution affects human health and can contribute o a general deterioration of environmental quality.
+Several sources of noise pollution contribute to both indoor and outdoor noise pollution.''')
+
+# fast fashion and textile waste
+
+def fft_info():
+    return(''' The extremely detrimental impact of fast fashion waste on the environment is no news.
+Besides being responsible for nearly 10% of global carbon emissions, the industry is also infamously known for the amount of resources
+it wastes and the millions of clothes ending up in landfills evry day.
+! 92 million tonnes of textile waste iks produced every year
+!  The Average US Consumer Throws Away 81.5lbs of Clothes Every Year
+! The Fashion Industry is Responsible for 20% of Global Waste Water
+!  The Number of Times a Garment is Worn Has Declined by Around 36% In 15 Years
+! It Takes 20,000 Litres of Water to Produce One Kilogram of Cotton
+! Nearly 10% of Microplastics Dispersed in the Ocean Each Year Come From Textiles
+!  Fast Fashion Brands Are Producing Twice the Amount of Clothes Today Than in 2000
+! 2.6 Million Tonnes of Returned Clothes Ended Up in Landfills in 2020 in the US Alone ''')
+
+def fft_soln():
+    return('''! Recycle and reuse the old clothes
+! BUY LESS
+! BUY CLOTHES FROM SUSTAINABLE BRANDS
+! BUY BETTER QUALITY
+!  THINK TWICE BEFORE THROWING OUT YOUR CLOTHES
+! Try to repair them
+! Sell them on second-hand apps
+!  BUY SECOND HAND, SWAP, & RENT CLOTHING
+!  KEEP AN EYE ON YOUR WASHING ''')
+
+def fft_ques1():
+    return('''The fashion industry contributes to environmental degradation in which of the following ways?
+a) Deforestation
+b) Desertification and degradation of soil
+c) Loss of biodiversity
+d) All of the above''')
+
+def fft_soln1():
+    return('''kudos!!This is the way ''')
+
+def fft_soln1w():
+    return('''Oops! The correct is All of the above...The fashion industry contributes to all of the above.
+Deforestation occurs when land is cleared for grazing animals that produce leather, wool, and other animal products.
+Deforestation and overgrazing can cause desertification and soil degradation. With this habitat loss and pollution from production,
+the fashion industry causes a loss of biodiversity as well.''')
+
+def fft_ques2():
+    return('''What does greenwashing in fashion refer to?
+a)Washing clothing in environmentally friendly ways
+b)Claims of environmental sustainability by a brand that are false or misleading
+c)Using natural fabric dyes
+d)Lying to people around you that something you bought was secondhand when it wasn’t''')
+
+def fft_soln2():
+    return('''Good Job! You are onto something brilliant!''')
+
+def fft_soln2w():
+    return('''Better luck next time..The correct answer is Claims of environmental sustainability by a brand that are false or
+misleading ''')
+
+def fft_ques3():
+    return('''Which of the following is not an example of shopping sustainably?
+a) Buying new clothing to match seasonal trends
+b) Shopping at thrift stores
+c) Buying few, high-quality items that will last
+d) Picking garments made from natural fibers like cotton ''')
+
+def fft_soln3():
+    return('''Wonderful!!''')
+
+def fft_soln3w():
+    return('''Sorry! The correct answer is Buying new clothing to match seasonal trends...Buying new clothing to match seasonal trends is not an example of shopping sustainably. Shopping at thrift stores, buying few, high-quality items,
+and picking garments made from natural fibers are all examples of ways to shop for clothing in a sustainable way.''')
+
+#Water Scarity
+
+def ws_info():
+    return(''' ! Water scarcity is an increasing problem on every continent,
+  with poorer communities most badly affected. To build resilience against climate change and to serve a growing population,
+  an integrated and inclusive approach must be taken to managing this finite resource.
+! Water scarcity is a relative concept. The amount of water that can be physically accessed varies as supply and demand changes.
+   Water scarcity intensifies as demand increases and/or as water supply is affected by decreasing quantity or quality.
+! Water is a finite resource in growing demand. As the global population increases, and resource-intensive economic development continues,
+many countries’ water resources and infrastructure are failing to meet
+! Climate change is making water scarcity worse. The impacts of a changing climate are making water more unpredictable. Terrestrial water storage
+– the water held in soil, snow and ice – is diminishing. This results in increased water scarcity, which disrupts societal activity.
+! Women and girls are among the hardest hit. Poor and marginalized groups are on the frontline of any water scarcity crisis,
+impacting their ability to maintain good health, protect their families and earn a living.
+! Lack of data means lack of integrated management. Many countries do not have well developed water monitoring systems,
+ which prevents integrated water resource management that can balance the needs of communities and the wider economy,
+particularly in time of scarcity.''')
+
+def ws_soln():
+    return(''' ! Rainwater harvesting
+! better sewage treatment
+! Reduce your water usage
+! low-flow toilets could be installed
+! collecting rainwater for garden use at home
+! reuse greywater
+! eradicate leaks
+! invest in sustainable energy and water reduction initiatives''')
+
+def ws_ques1():
+    return('''Which of the following actions is an example of reusing water?
+a) Using greywater to water a lawn or flush a toilet
+b) Changing out the toilet for a toilet that uses less water to flush
+c) Only watering the lawn once a week
+d) all of the above''')
+
+def ws_soln1():
+    return('''kudos!!This is the way ''')
+
+def ws_soln1w():
+    return('''Oops! The correct is All of the above''')
+
+def ws_ques2():
+    return('''Water scarcity can be caused by the economic undervaluing of water as a finite resource
+a) true
+b) false''')
+
+def ws_soln2():
+    return('''Good Job! You are onto something brilliant!''')
+
+def ws_soln2w():
+    return('''Better luck next time..The correct answer is true''')
+
+def ws_ques3():
+    return('''Aquifers recharge readily and are difficult to deplete.
+a) true
+b) false''')
+
+def fft_soln3():
+    return('''Wonderful!!''')
+
+def fft_soln3w():
+    return('''Sorry! The correct answer is False''')
+
+# Soil Degradation
+
+def soil_info():
+    return(''' ! Soil degradation is a worldwide problem,
+and it is understood as “a change in the soil health status resulting in a diminished capacity of the ecosystem to provide goods
+and services for its beneficiaries.
+! Soil degradation is the loss of land’s production capacity in terms of loss of soil fertility, soil biodiversity, and degradation
+! Soil degradation causes include agricultural, industrial, and commercial pollution;
+loss of arable land due to urban expansion, overgrazing,
+and unsustainable agricultural practices; and long-term climatic changes.
+!  It can be the loss of organic matter, decline in soil fertility, and structural condition, erosion, adverse changes in salinity,
+acidity or alkalinity,and the effects of toxic chemicals, pollutants or excessive flooding
+! Soil degradation can involve:
+    # water erosion (includes sheet, rill and gully erosion)
+    # wind erosion
+    # salinity (includes dryland, irrigation and urban salinity)
+    # loss of organic matter
+    # fertility decline
+    # soil acidity or alkalinity
+    # structure decline (includes soil compaction and surface sealing)
+    # mass movement
+    # soil contamination (including effects of toxic chemicals and pollutants).''')
+
+
+def soil_soln():
+    return('''Soil is a basic element that must be good to remain diverse and sustainable for the remainder of the ecosystem.
+! Plant more trees. Without plant and tree cover, erosion happens much more easily.
+! Leave land alone
+! Placing crushed stone, wood chips, and other similar materials in heavily used areas where vegetation is hard to establish and maintain.
+! keep the food growing process as natural as possible through organic farming.v
+! Fewer Concrete Surfaces
+! Plant Windbreak Areas
+! Windbreaks are composed of shrubs, plants and trees. They work in combination and serve a conservation purpose.
+  These will work together to slow the force of wind over ground areas.
+! Water the Soil
+! Add Earthworms. You can add earthworms to your soil to ensure its health.''')
+
+def soil_ques1():
+    return('''What is Soil Degradation?
+a) A lowering of soil quality, or a loss of soil productivity
+b) When soil moves from one place to another
+c) The compaction of soil particles
+d) The cause of erosion ''')
+
+def soil_soln1():
+    return('''kudos!!This is the way ''')
+
+def soil_soln1w():
+    return('''Oops! The correct is lowering of soil quality, or a loss of soil productivity''')
+
+def soil_ques2():
+    return(''' Soil Erosion is due to
+a) Rapid Urbanisation
+b) Cutting of trees
+c) Overgrazing by animals
+d) all of the above''')
+
+def soil_soln2():
+    return('''Good Job! You are onto something brilliant!''')
+
+def soil_soln2w():
+    return('''Better luck next time..The correct answer is all of the above''')
+
+def soil_ques3():
+    return('''Which one is not the major technique of soil conservation ?
+a) control on cattle grazing
+b) crop rotation
+c) use of chemical fertilizers
+d) strip cropping''')
+
+def soil_soln3():
+    return('''Wonderful!!''')
+
+def soil_soln3w():
+    return('''Sorry! The correct answer is use of chemical fertilizers''')
+
+
+# E Waste
+def ew_info():
+    return(''' ! The UN defines e-waste as any discarded product with a battery or plug,
+and features toxic and hazardous substances such as mercury,that can pose severe risk to human and environmental health.
+! E-waste, electronic waste, e-scrap and end-of-life electronics are terms often used to describe used electronics
+that are nearing the end of their useful life, and are discarded, donated or given to a recycler.
+The UN defines e-waste as any discarded products with a battery or plug, and features toxic and hazardous substances such as mercury,
+that can pose severe risk to human and environmental health.
+! E-waste can be toxic, is not biodegradable and accumulates in the environment, in the soil, air, water and living things. For example,
+open-air burning and acid baths being used to recover valuable materials from electronic components release toxic materials
+leaching into the environment
+! These practices can also expose workers to high levels of contaminants such as lead, mercury, beryllium, thallium, cadmium and
+arsenic, and also brominated flame retardants (BFRs) and polychlorinated biphenyls,
+which can lead to irreversible health effects, including cancers, miscarriages, neurological damage and diminished IQs.
+! It is also worth considering the effects electronic goods have on climate change.
+Every device ever produced has a carbon footprint and is contributing to human-made global warming.
+! Lack of Recycling. Recycling rates globally are low.
+The lack of recycling weighs heavily on the global electronic industry and as devices become more numerous, smaller and more complex,
+the issue escalates. Currently, recycling some types of e-waste and recovering materials and metals is an expensive process.
+The remaining mass of e-waste – mainly plastics laced with metals and chemicals – poses a more intractable problem.''')
+
+def ew_soln():
+    return(''' ! KNOW A PRODUCT'S LIFESPAN BEFORE YOU BUY IT
+! SET A LIMIT ON ELECTRONIC GADGETS
+! CHECK THE PACKAGING FOR AN ENVIRONMENTAL SEAL
+! SPREAD THE WORD ABOUT E-WASTE
+! LEARN ABOUT ELECTRONIC COMPONENTS
+! MAKE RECYCLING A PART OF YOUR LIFESTYLE
+! CLEAN YOUR HARD DRIVE BEFORE RECYCLING
+! MAINTAIN YOUR CURRENT ELECTRONIC EQUIPMENT
+! DONATE UNWANTED ELECTRONICS TO CHARITIES
+!  LEARN STATE LAWS ON BATTERY DISPOSAL ''')
+
+
+def ew_ques1():
+    return('''Which of the following are the main contributors of the e-waste in the world?
+
+I.  Refrigerators/freezers, washing machines, dishwashers
+
+II. Small household appliances (toasters, coffee makers, irons, hairdryers)
+
+III. Personal computers, telephones, mobile phones, laptops, printers, scanners, photocopiers
+
+IV. Gas cylinder, chimneys & home appliances
+
+A. Only I, II, III
+
+B. Only I & II
+
+C. Only I, III, IV
+
+D. All of the above ''')
+
+def ew_soln1():
+    return('''kudos!!This is the way ''')
+
+def ew_soln1w():
+    return('''Oops! The correct is Only I, II, III ''')
+
+def ew_ques2():
+    return('''What does e- waste stand for?
+
+A. Environment waste
+
+B. Electronic waste
+
+C. Equipment waste
+
+D. None of the above''')
+
+
+def ew_soln2():
+    return('''Good Job! You are onto something brilliant!''')
+
+def ew_soln2w():
+    return('''Better luck next time..The correct answer is  Electronic waste''')
+
+def ew_ques3():
+    return(''' E-waste contains hazardous substances that are harmful to the environment and human health if not properly treated or disposed of, therefore they must be handled with care.
+
+What are the health hazards which can be caused by E-Waste?
+
+A. Lung cancer
+
+B. DNA damage
+
+C. Brain
+
+D. All of the above''')
+
+def ew_soln3():
+    return('''Wonderful!!''')
+
+def ew_soln3w():
+    return('''Sorry! The correct answer is All of the above''')
+
+def menu():
+    return('''
+***MENU: Choose the nature demon which you want to conquer today:***
+
+1. Plastic pollution
+2. water scarcity
+3. noise pollution
+4. soil degradaion
+5. fast fashion and textile waste
+6. E waste" 
+7. ASK A QUESTION"
+8. EXIT
+Eco Minion:''')
+
+
+def QUESTION(): ##OPTION1(IX)
+    QKey1=["plastic"]
+    QRes1=['''Awareness is being raised. Government is taking essential measures.Plastic ban and 
+Swatch Bharat Abhiyan is one such schemes implemented so far Reusable alternatives to single-use plastic food- service ware
+include containers made of glass, stainless steel, silicone or rigid recyclable plastic. Another option is to engage with
+local recycling facilities to determine which plastics are recyclable,
+thereby reducing the amount sent to landfill.''']
+    QKey2=["water","scarcity"]
+    QRes2=['''Water scarcity is an increasing problem on every continent,
+  with poorer communities most badly affected. To build resilience against climate change and to serve a growing population,
+  an integrated and inclusive approach must be taken to managing this finite resource.
+  What are the steps taken by the government to reduce water scarcity?
+Water conservation initiatives are taken up by the Central Government on continuous basis and are covered under various schemes and
+programmes such as Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS),
+Atal Bhujal Yojana, Pradhan Mantri Sinchayee Yojana (PMKSY) etc''']
+    QKey3=["noise"]
+    QRes3=['''Not all sound is considered noise pollution.
+To be precise, noise becomes harmful when it exceeds 75 decibels (dB) and is painful above 120 dB.
+Traffic noise accounts for most polluting noise in cities. For example, a car horn produces 90 dB and a bus produces 100 dB
+Construction sites
+The State Government shall take measures for abatement of noise including noise emanating from vehicular movements and
+ensure that the existing noise levels do not exceed the ambient air quality standards specified under these rules.''']
+    QKey4=["soil",]
+    QRes4=['''Soil degradation is a worldwide problem,
+and it is understood as “a change in the soil health status resulting in a diminished capacity of the ecosystem to provide goods
+and services for its beneficiaries.
+ Soil degradation is the loss of land’s production capacity in terms of loss of soil fertility, soil biodiversity, and degradation
+ Soil degradation causes include agricultural, industrial, and commercial pollution
+ Soil is a basic element that must be good to remain diverse and sustainable for the remainder of the ecosystem.
+ Plant more trees. Without plant and tree cover, erosion happens much more easily.
+ Leave land alone
+ ''']
+    QKey5=["fast" ,"fashion","textile"]
+    QRes5=['''Fast fashion has a massive environmental impact, it is the second-biggest consumer of water and is responsible
+for nearly 10% of global carbon emissionsChoose sustainable fashion brands: Many fashion brands are making a conscious effort to reduce their environmental impact. Choose brands that use sustainable materials and have transparent supply chains. Donate or recycle clothing: When clothes are no longer needed,
+donate them to charity or recycle them..
+ ''']
+    QKey6=["e","waste"]
+    QRes6=['''The UN defines e-waste as any discarded product with a battery or plug,
+and features toxic and hazardous substances such as mercury,that can pose severe risk to human and environmental health.
+E-waste, electronic waste, e-scrap and end-of-life electronics are terms often used to describe used electronics
+that are nearing the end of their useful life, and are discarded, donated or given to a recycler.
+The UN defines e-waste as any discarded products with a battery or plug, and features toxic and hazardous substances such as mercury,
+that can pose severe risk to human and environmental health.''']
+    
+
+    
+    print("EARTH GODESS 🌍:")
+    print("My Eco Minion 🌱💚, wants to challenge my knowledge, huh?")
+    print("No issues! I'm ready! 😁")
+    print("Kindly type the question.😀")
+    print()
+    print("Eco Minion 🌱💚:")
+    Q=input("")
+    q=Q.lower()
+    print()
+    Words=q.split()
+    flag=0
+    N=len(Words)
+    for j in range (N):
+           for i in Words:
+               if i in QKey1:
+                   flag+=1
+                   print("EARTH GODESS 🌍:")
+                   print("Here's what I found!")
+                   print()
+                   for i in QRes1:
+                       print(i)
+                       print()
+                       print("I hope that clears your doubt.")
+                       print()
+                       break
+                   
+                      
+               elif i in QKey2:
+                   flag+=1
+                   print("EARTH GODESS 🌍:")
+                   print("Here's what I found!")
+                   print()
+                   for i in QRes2:
+                       print(i)
+                       print()
+                       print("I hope that clears your doubt.")
+                       print()
+                       break
+                    
+               elif i in QKey3:
+                   flag+=1
+                   print("EARTH GODESS 🌍:")
+                   print("Here's what I found!")
+                   print()
+                   for i in QRes3:
+                       print(i)
+                       print()
+                       print("I hope that clears your doubt.")
+                       print()
+                       break
+                    
+               elif i in QKey4:
+                   flag+=1
+                   print("EARTH GODESS 🌍:")
+                   print("Here's what I found!")
+                   print()
+                   for i in QRes4:
+                       print(i)
+                       print()
+                       print("I hope that clears your doubt.")
+                       print()
+                       break
+                    
+               elif i in QKey5:
+                   flag+=1
+                   print("EARTH GODESS 🌍:")
+                   print("Here's what I found!")
+                   print()
+                   for i in QRes5:
+                       print(i)
+                       print()
+                       print("I hope that clears your doubt.")
+                       print()
+                       break
+              
+           break
+        
+           if flag==0:
+               print("EARTH GODESS 🌍:")
+               print("OOPS! Eco Minion really did ask me a challenging question!")
+               print("I'm sorry but I won't be able to answer this one...")
+               print("Do you have the answer to it? (Yes/No)")
+               print()
+               print("YOU:")
+               R=input()
+               print()
+               if R=="YES" or R=="yes" or R=="Yes":
+                   print("EARTH GODESS 🌍:")
+                   print("Kindly help me update and make myself modern like you!")
+                   print()
+                   print("Eco Minion:")
+                   Res=input()
+                   print()
+                   print("EARTH GODESS 🌍:")
+                   print("Thank you! That was really helpful!")
+                   print()
+                   QKeys.append(Q)
+                   QRes.append(Res)
+               else:
+                   print("EARTH GODESS 🌍:")
+                   print("No issues! We together shall update ourselves as soon as possible!")
+                   print("Thanks for bringing the question to my notice!")
+
+
+
+
+
